@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9029-9376
+
+ Directory of C:\Conde\Temp\GITFolder
+
+05/28/2022  05:23 PM    <DIR>          .
+05/28/2022  05:23 PM    <DIR>          ..
+05/28/2022  05:23 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  22,191,841,280 bytes free
